@@ -6,8 +6,7 @@ html,body {
     scroll-behavior: smooth;
 }
 .image {
-    background-image: url("C:/Users/SHIKHAR/Desktop/A/wallpapers/cropped-1366-768-1333287.png");
-    /* background-color: #0077FF; */
+    background-color: #0077FF;
     height: 100vh;
     opacity: 0.87;
     background-position:center;
